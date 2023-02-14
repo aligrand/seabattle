@@ -9,7 +9,7 @@
 
 
 
-# sea-battle
+# about
 simple classic seabattle with c in command line environment
 
 # Requirements
