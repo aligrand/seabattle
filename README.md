@@ -10,7 +10,7 @@
 
 
 # sea-battle
-simple classic sea-battle with c in command line environment
+simple classic seabattle with c in command line environment
 
 # Requirements
 * GCC (Mingw)
