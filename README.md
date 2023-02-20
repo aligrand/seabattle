@@ -63,4 +63,6 @@ This project is an academic(university) project in a two-person group with accou
 1. www.github.com/khodekhadem
 2. www.github.com/aligrand
 
+For full comments and branches and tags go to https://github.com/khodekhadem/sea-battle
+
 
